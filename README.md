@@ -1,6 +1,8 @@
 # ficticiusclean
 
-API construída usando Spring-boot;
+API construída usando Spring Boot;
+
+Java 8;
 
 Para subir a aplicação dentro da raiz do projeto executar o comando: mvn spring-boot:run;
 
